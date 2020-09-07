@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432581626322",
+    "firebase_url": "https://makemytripdemo-a2730.firebaseio.com",
+    "project_id": "makemytripdemo-a2730",
+    "storage_bucket": "makemytripdemo-a2730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432581626322:android:8eb552631b2dbe4edda00b",
+        "android_client_info": {
+          "package_name": "com.makemytripapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432581626322-dekb8tlgud2i8ekfjlju0mimuiejhr15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZeF-qXC_ACM9BcHN82gPiIO6lQVsfqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432581626322-dekb8tlgud2i8ekfjlju0mimuiejhr15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
